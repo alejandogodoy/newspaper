@@ -1,0 +1,138 @@
+body {
+    font-family: Open Sans, Helvetica Neue, Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    color: #231f1e;
+    background-color: #fff;
+    margin: 5px;
+    line-height: 1.625;
+}
+h1 {
+    font-size: 41px;
+    color: black;
+}
+a {
+    text-decoration: none;
+    font-weight: bold;
+}
+p {
+    margin: 0 0 13px;
+}
+
+button {
+    display: inline-block;
+    padding: 5px 10px;
+    text-decoration: none;
+    font-family: Roboto, sans-serif;
+    margin-bottom: 0;
+    font-weight: 400;
+    text-align: center;
+    border: 1px solid transparent;   
+}
+ul li {
+    list-style: none;
+}
+
+/* Class */
+.div {
+    background-color: #444;
+}
+.navbar {
+    position: relative;
+    min-height: 60px;
+    margin-bottom: 13px;
+    border: 1px solid transparent;
+    padding: 9px 15px 13px 0;
+}
+.links {
+    text-decoration: none;
+    color:#9438;
+    font-weight: bold;
+}
+.author {
+    color: #94381d;
+    text-decoration: none;
+    font-weight: bold;
+}
+.buttonback {
+    color: #fff;
+    background-color: rgb(148, 77, 77);
+    border-color: rgb(87, 65, 4);
+}
+.buttonback:hover {
+    color: #fff;
+    background-color: maroon;
+    border-color: rgb(87, 65, 4);
+}
+
+.buttonpri {
+    color: #fff;
+    background-color: #be4825;
+    border-color: #a94021;
+}
+.buttonpri:hover {
+    color: #fff;
+    background-color: #94381d;
+}
+.buttontw {
+    color:#fff;
+    background-color: #55acee;
+    border-color: #3ea1ec;
+}
+.buttontw:hover{
+    color: #fff;
+    background-color: #007cba;
+}
+.buttonin {
+    color: #fff;
+    background-color: #007bb6;
+    border-color: #006a9d;
+}
+.buttonin:hover{
+    color:#fff;
+    background-color: #005a87;
+}
+.buttonrd {
+    color: #fff;
+    background-color: #75b0eb;
+    border-color: #5ea3e8;
+}
+.buttonrd:hover {
+    color: #fff;
+    background-color: #4897e5;
+    border-color: #2985e0;
+}
+.content {
+    position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+.alignright {
+    float: right;
+    margin: 0px 0px 15px 15px;
+}
+.alignleft {
+    float: left;
+    margin: 0px 0px 15px 15px;
+}
+.box-content {
+        min-height: 20px;
+        padding: 19px;
+        margin-bottom: 20px;
+        margin-top: 20px;
+        background-color: #f5f5f5;
+        border: 1px solid #e3e3e3;
+        border-radius: 4px;
+        box-shadow: inset 0 1px 1px rgba(0,0,0,.05);
+    }
+.linkm {
+    color:#fff;
+
+}
+.footerc {
+    background-color: #be4825;
+    color:  #fff;
+    padding-top: 14px;
+    padding-right: 10px;
+    padding-left: 10px;
+}
